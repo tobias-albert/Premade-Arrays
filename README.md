@@ -8,7 +8,11 @@ Contains various premade arrays for different programming languages (mostly Java
 String[] names = {"Bob", "Chris", "Steven", "Henry", "Sarah", "Sophie", "Lisa", "Brian", "Amanda", "Philip", "Joe", "Emma"};
 
 ##### Male only
+String[] names = {"Bob", "Chris", "Steven", "Henry", "Brian", "Philip", "Joe"};
+
 ##### Female only
+
+String[] names = {"Sarah", "Sophie", "Lisa","Amanda", "Emma"};
 
 
 #### Norwegian Names
