@@ -5,7 +5,7 @@ Contains various premade arrays for different programming languages (mostly Java
 ### Names  
 
 #### English Names
-String[] names = {"Bob", "Chris", "Steven", "Henry", "Sarah", "Sophie", "Lisa", "Brian", "Amanda", "Philip", "Joe", "Emma"}
+String[] names = {"Bob", "Chris", "Steven", "Henry", "Sarah", "Sophie", "Lisa", "Brian", "Amanda", "Philip", "Joe", "Emma"};
 
 ##### Male only
 ##### Female only
@@ -15,3 +15,7 @@ String[] names = {"Bob", "Chris", "Steven", "Henry", "Sarah", "Sophie", "Lisa", 
 
 ##### Male only
 ##### Female only
+
+
+### Shop products
+String[] productNames = {"Potato", "Tomato", "Chicken Soup", "Lemon", "Bread", "Eggs", "Milk", "Coffee", "Tee"};
